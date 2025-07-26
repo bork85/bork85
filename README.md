@@ -10,9 +10,9 @@
 
   Você pode me contatar por aqui:
 
-  Linkedin
-  <img scr="[Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)" alt="facebook-logo" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/:E-mail">
+  <p>Linkedin</p>
+  <p><img scr="[Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)" alt="facebook-logo" /> </p>
+  <p><img alt="Static Badge" src="https://img.shields.io/badge/:E-mail"></p>
 
 
 Sinta-se a vontade de olhar o meu portfolio...
