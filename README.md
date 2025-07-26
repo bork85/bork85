@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**bork85/bork85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Me chamo Daniel Bork e sou um Desenvolvedor Front End em busca do meu espaço.</h1>>
+<br>
+<p>Atualmente atuo com as seguites linguagens:</p>
 
-Here are some ideas to get you started:
+<img scr="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="hmtl-logo" />
+<img scr="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="css-logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascrip-logo"   />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Você pode me contatar por aqui:
+
+  Linkedin
+  <img scr="[Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)" alt="facebook-logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/:E-mail">
+
+
+Sinta-se a vontade de olhar o meu portfolio...
